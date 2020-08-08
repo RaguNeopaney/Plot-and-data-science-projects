@@ -4,4 +4,4 @@
 # Standing or still motions are ignored 
 
 # 2. Rolling Dice 
-# This uses 
+# This uses pygal to display interactive histogram
